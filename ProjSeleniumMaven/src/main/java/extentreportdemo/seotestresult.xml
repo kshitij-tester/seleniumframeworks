@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Broken Valid Links Test" verbose="1">
+
+<test name="Anchor Tag check, Domain Test, Broken valid link verify">
+<classes>
+
+<class name="extentreportdemo.TestBrokenValidLinks"></class>
+
+
+</classes>
+</test>
+</suite>
